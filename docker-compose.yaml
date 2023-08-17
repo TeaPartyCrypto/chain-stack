@@ -26,7 +26,6 @@ services:
       "--allow-insecure-unlock",  
       "--syncmode=full",
       "--nodiscover",
-      "--nat=extip:38.109.255.242",
       "--mine",
       "--miner.etherbase=0x5bbfa5724260Cb175cB39b24802A04c3bfe72eb3",
       ]
