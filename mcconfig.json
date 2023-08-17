@@ -102,7 +102,7 @@
         "dagDir": "/home/dag",
         "daemons": [
           {
-            "host": "partychain",
+            "host": "chain",
             "port": 9545,
             "user": "",
             "password": ""
